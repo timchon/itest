@@ -1,0 +1,12 @@
+.idea/
+build
+note_modules
+nmp-debug.log
+Thumbs.db
+Desktop.ini
+*.cab
+*.msi
+*.msm
+*.msp
+$RECYCLE.BIN/
+*.link
